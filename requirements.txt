@@ -1,0 +1,9 @@
+#requirements
+pandas
+numpy
+seaborn
+matplotlib
+sklearn
+xgboost
+scipy
+statsmodels	
